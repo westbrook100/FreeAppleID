@@ -9,13 +9,38 @@
 
 必须立个Flag：可靠性这一点上，100%能正常登录到AppStore。
 
-美区AppleID常见的使用场景：
+#### 美区AppleID常见的使用场景
+
+**第1类：仅仅是下载一些外区的App**
+
+这种场景即可用我这里提供的共享海外AppleID。
 
 例如下载外区的游戏：Five Nights at Freddy's、Beat cop、Graduate: Island Life1、Unpacking。
 
 例如下载常用的iOS版本的VPN软件——Shadowrocket。
 
 例如下载外区的Tiktok、X、Facebook、WhatsApp
+
+
+**第2类：订阅ChapGPT、Gemini、Cursor、Claude**
+
+不适合共享AppleID，最好是自己注册，然后再添加自己的付款方式。
+
+很多人在注册美区AppleID，提示“此时无法创建你的账户”
+
+实际上这种错误提示"此时无法创建你的账户"，是完全可以避免的。
+
+
+![](https://files.mdnice.com/user/4562/868b5275-2976-4558-a79d-ce8720fa5566.png)
+
+
+1、建议修改网络DNS，把DNS添加一个8.8.8.8基本解决，设备不同，修改DNS方式不同，所以自行百度。
+
+2、使用科学上网工具，也就是所谓的“梯子”、“魔法网络”、“VPN工具”，你注册哪个国家的AppleID就选择哪个国家的IP，可完全无视这问题，本质原因就是IP的问题。
+
+这个可选择后面提供的，我就是用这款「青山VPN」，价格不贵14元/元，同类工具中算是比较便宜的。
+
+先注册一下，[点击注册青山](https://qsqs.life/register?code=hzhSNrdy)
 
 除了美区AppleID，这部分免费的共享AppleID还包括：
 
@@ -51,7 +76,7 @@
 ![](https://files.mdnice.com/user/4562/442c5a05-d1f7-4def-881d-9e05b4a120c2.jpg)
 
 
-#### 获取方式1
+#### 共享AppleID获取方式1
 
 这里是在「青山」这款VPN软件中找到的，目前提供共享的海外AppleID的VPN软件确实不多，都是让自己去找。
 
@@ -78,7 +103,7 @@
 
 ![](https://github.com/FreeVPSGuide/FreeNodes/raw/main/Images/1000.gif)
 
-#### 获取方式2
+#### 共享AppleID获取方式2
 
 这个共享的苹果ID是在「极连云」这款软件找到的。
 
