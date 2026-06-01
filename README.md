@@ -40,7 +40,7 @@
 
 这个可选择后面提供的，我就是用这款「青山VPN」，价格不贵14元/元，同类工具中算是比较便宜的。
 
-先注册一下，[点击注册青山](https://qsqs.life/register?code=hzhSNrdy)
+先注册一下，[点击注册青山](https://qsqs.club/register?code=hzhSNrdy)
 
 除了美区AppleID，这部分免费的共享AppleID还包括：
 
