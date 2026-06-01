@@ -84,7 +84,7 @@
 
 这部分共享的AppleID，都带有实时检测功能，大家尽管放心使用。
 
-先注册一下，[点击注册青山](https://qsqs.life/register?code=hzhSNrdy)
+先注册一下，[点击注册青山](https://qsqs.club/register?code=hzhSNrdy)
 
 这个VPN相当便宜，仅仅只要14元/月/100G（年付100），大力推荐。
 
